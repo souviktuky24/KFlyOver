@@ -1,0 +1,25 @@
+{
+    "name": "react-native-flyover",
+    "version": "0.1.25-rc.15",
+    "description": "React Native Flyover for starting and finishing activities on Android.",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/badcodercpp/KFlyOver.git"
+    },
+    "keywords": [
+      "React",
+      "Native",
+      "Android",
+      "Start Activity",
+      "StartActivity",
+      "StartActivityForResult",
+      "React Native bridge"
+    ],
+    "author": "badcoder",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/badcodercpp/KFlyOver.git/issues"
+    },
+    "homepage": "https://github.com/badcodercpp/KFlyOver.gitt#readme"
+  }
